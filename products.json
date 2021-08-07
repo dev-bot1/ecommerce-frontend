@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 12",
+    "content": "A14 Bionic, the fastest chip in a smartphone.\nAn edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.",
+    "meta_description": "A14 Bionic, the fastest chip in a smartphone.",
+    "meta_title": "iPhone 12",
+    "price": 70000.5,
+    "slug": "iphone-12",
+    "published_at": "2021-08-04T18:28:30.047Z",
+    "created_at": "2021-08-04T18:28:18.699Z",
+    "updated_at": "2021-08-04T18:28:30.068Z",
+    "image": {
+      "id": 1,
+      "name": "iphone1.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1312,
+      "height": 738,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_iphone1.jpg",
+          "hash": "thumbnail_iphone1_3d5c875fa8",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 138,
+          "size": 4.67,
+          "path": null,
+          "url": "/uploads/thumbnail_iphone1_3d5c875fa8.jpg"
+        },
+        "large": {
+          "name": "large_iphone1.jpg",
+          "hash": "large_iphone1_3d5c875fa8",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 563,
+          "size": 38.57,
+          "path": null,
+          "url": "/uploads/large_iphone1_3d5c875fa8.jpg"
+        },
+        "medium": {
+          "name": "medium_iphone1.jpg",
+          "hash": "medium_iphone1_3d5c875fa8",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 422,
+          "size": 25.17,
+          "path": null,
+          "url": "/uploads/medium_iphone1_3d5c875fa8.jpg"
+        },
+        "small": {
+          "name": "small_iphone1.jpg",
+          "hash": "small_iphone1_3d5c875fa8",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 281,
+          "size": 13.5,
+          "path": null,
+          "url": "/uploads/small_iphone1_3d5c875fa8.jpg"
+        }
+      },
+      "hash": "iphone1_3d5c875fa8",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 56.4,
+      "url": "/uploads/iphone1_3d5c875fa8.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-08-04T18:26:04.191Z",
+      "updated_at": "2021-08-04T18:26:04.202Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Iphone 12 Mini",
+    "content": "Type \tSuper Retina XDR OLED, HDR10, Dolby Vision, 625 nits (typ), 1200 nits (peak)\nSize \t5.4 inches, 71.9 cm2 (~85.1% screen-to-body ratio)\nResolution \t1080 x 2340 pixels, 19.5:9 ratio (~476 ppi density)\nProtection \tScratch-resistant ceramic glass, oleophobic coating\n \tWide color gamut\nTrue-tone",
+    "meta_description": "iPhone 12 Mini",
+    "meta_title": "iPhone 12 Mini",
+    "price": 42000,
+    "slug": "iphone-12-mini",
+    "published_at": "2021-08-04T18:30:43.058Z",
+    "created_at": "2021-08-04T18:30:40.861Z",
+    "updated_at": "2021-08-04T18:30:43.078Z",
+    "image": {
+      "id": 2,
+      "name": "iphone11.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 300,
+      "height": 200,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_iphone11.jpg",
+          "hash": "thumbnail_iphone11_3a5c9a31e6",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 234,
+          "height": 156,
+          "size": 9.57,
+          "path": null,
+          "url": "/uploads/thumbnail_iphone11_3a5c9a31e6.jpg"
+        }
+      },
+      "hash": "iphone11_3a5c9a31e6",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 14.41,
+      "url": "/uploads/iphone11_3a5c9a31e6.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-08-04T18:29:28.682Z",
+      "updated_at": "2021-08-04T18:29:28.696Z"
+    }
+  }
+]
